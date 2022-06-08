@@ -68,7 +68,7 @@
 
 # 亮达渔网
 
-![avatar](/img/demo18.png)
+![avatar](/img/demo18.jpg)
 
 # CMS 系统
 
